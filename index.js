@@ -5,6 +5,7 @@ const winston=require('winston');  // handling errors
 // SINGLE RESPONSIBILITY PRINCIPLE    learnt 
 //process is an event emitter
 
+
 require('./startup/logging')();
 require('./startup/routes')(app);
 require('./startup/db')();
