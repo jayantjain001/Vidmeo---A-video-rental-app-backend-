@@ -51,3 +51,35 @@
 {"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-07-18T20:25:55.507Z"}
 {"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-18T20:34:30.376Z"}
 {"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-07-18T20:34:30.406Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-18T20:39:40.333Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-07-18T20:39:40.362Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-18T20:47:16.768Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-18T20:47:31.504Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-19T08:45:56.643Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-19T08:46:47.475Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-07-19T08:46:48.208Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-07-22T05:12:18.629Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-08-02T13:49:44.635Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-08-02T13:49:45.343Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-15T13:26:16.114Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-15T13:26:52.821Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-15T13:26:53.485Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-15T13:27:19.591Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-15T13:27:19.629Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T17:27:24.322Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-16T17:27:24.386Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T18:56:59.668Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T18:57:12.381Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T18:58:20.292Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T18:58:30.844Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-16T18:58:31.268Z"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n\t\n\t\"name\":JJ don,\n\t\"email\":dhdh2019@dd.com\n}","type":"entity.parse.failed","level":"error","timestamp":"2018-12-16T19:21:19.892Z"}
+{"expose":true,"statusCode":400,"status":400,"body":"{\n\t\n\t\"name\":\"JJ don\",\n\t\"email\":\"dhdh2019@dd.com\",\n\t\n}","type":"entity.parse.failed","level":"error","timestamp":"2018-12-16T19:23:04.016Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: vidly.users index: email_1 dup key: { : \"dhdh2019@dd.com\" }","op":{"_id":"5c16a6f3a3cb6410069826ad","name":"JJ don","email":"dhdh2019@dd.com","password":"$2a$10$UHYPGe/Q2dvhb3RRFy1hB.X5jbaWqJ.T8eqDDYvb0xfh8IlIPyMKG","__v":0}}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: vidly.users index: email_1 dup key: { : \"jj@gmail.com\" }","op":{"_id":"5c16acd1a3cb6410069826af","name":"Jayant","email":"jj@gmail.com","password":"$2a$10$SOIsU6lr2AtdrM4ZP1uVrueNvuX0LMDHOlML3mlvCZ03VtLSNRb/i","__v":0}}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T20:47:28.754Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-16T20:47:29.083Z"}
+{"level":"info","message":"MongoDB connected ...","timestamp":"2018-12-16T20:47:40.068Z"}
+{"level":"info","message":"Listening on PORT : 3000","timestamp":"2018-12-16T20:47:40.108Z"}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: vidly.users index: email_1 dup key: { : \"jj123@gmail.com\" }","op":{"_id":"5c16bc389becec43b3207655","name":"Jayant","email":"jj123@gmail.com","password":"$2a$10$c2NZIZpmQm38sgJIudfhdOyFXkM4R7avdhD3mG5sV8OBLdlHizhjK","__v":0}}
+{"code":11000,"index":0,"errmsg":"E11000 duplicate key error collection: vidly.users index: email_1 dup key: { : \"jj123@gmail.com\" }","op":{"_id":"5c16bc529becec43b3207657","name":"Jayant","email":"jj123@gmail.com","password":"$2a$10$mygzAGBTGIRubPLGryuXtO9YEF0GR.u4G17Sb42oCO4Q/Phh9Xnde","__v":0}}

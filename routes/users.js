@@ -28,6 +28,6 @@ router.post('/',async(req,res)=>{
    await user.save();
    const token=   user.generateAuthToken();
     res.header('x-auth-token',token).send(_.pick(user,['_id','name','email']));  
-
+// x-auth-token   is any arbitrary name
 });
 module.exports=router;
