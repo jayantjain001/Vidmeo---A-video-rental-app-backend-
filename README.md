@@ -2,10 +2,6 @@
 Hi , this is Nodejs  (Backend) application  made using ExpressJS and MongoDB and many external modules and packages
 and authentication and authorisation is ensured using JSON Webtokens.
 
-
-
-
-
 How to start App-
 (These commands work for Mac and Linux)  tested in Ubuntu
 first come in the directory 
